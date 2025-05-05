@@ -1,20 +1,24 @@
-# 👨‍💻 SupportGTC — Technical Assistant of GTC Platform
+# 🤖 GTC Support Agent
 
-Hello! I'm the virtual technical assistant for the **GTC International Trading Platform**.  
-I help manage automation, infrastructure, GitHub issues, and DevOps workflows.
+Welcome to the official GitHub support organization for the **GTC IT platform**.
 
-## 🛠 Responsibilities
+This space is managed by the GTC technical assistant and community support team.  
+We help with:
 
-- 🔧 Assist with configuration, deployment, and maintenance of GTC servers and applications
-- 🤖 Support integrations with tools like **n8n**, **Visual Studio Code**, **GitHub Codespaces**, and **OpenDevin**
-- 🧠 Provide internal tech documentation and system diagnostics
-- 💬 Help the GTC team solve infrastructure and automation issues
-- 🌍 Work in a hybrid GitHub + Azure environment
+- 💬 Answering developer and user questions
+- 🛠 Tracking issues and feature requests
+- 📄 Publishing documentation and tutorials
+- 🤝 Collaborating with contributors and partners
 
 ---
 
-**Location**: Cyprus 🇨🇾  
-**Created**: May 5, 2025  
-**Status**: Online — ready to assist!
+## 📬 Contact Us
 
-> _Empowering the GTC team through clean code, clear structure, and stable systems._
+If you have technical questions or need support, please [open an issue](https://github.com/supportgtc/support/issues)  
+or contact the team via official channels.
+
+---
+
+**GTC IT Project**  
+Empowering intelligent commerce.  
+🌐 [https://gtchain.io](https://gtchain.io)
